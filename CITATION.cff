@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: Wang
-  given-names: Zhipei
-orcid: https://orcid.org/0009-0002-9839-9138
-title:
+- family-names: "Wang"
+  given-names: "Zhipei"
+  orcid: https://orcid.org/0009-0002-9839-9138
+title: "A package with a function that calculates cohesion"
 version: v0.2.0.1
 date-released: 2025-01-20
                                 
