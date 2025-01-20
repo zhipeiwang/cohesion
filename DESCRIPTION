@@ -1,0 +1,14 @@
+Package: cohesion
+Type: Package
+Title: Calculates the cohesion of a cluster
+Version: 0.2.0
+Author: Zhipei Wang
+Maintainer: Zhipei Wang <z.wang26@students.uu.nl>
+Description: There are R packages that calculate the silhouette coefficient, but not that many that calculate the cohesion of a cluster.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    magrittr
